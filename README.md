@@ -13,3 +13,11 @@ git clone<-some link->
 status-display the state of thwe code
 git status
 <br>
+untracked - new files that git doesnot yet track 
+<br>
+modified- changed
+<br>
+staged- file is ready to be committed
+<br>
+unmodified- unchanged
+<br>
