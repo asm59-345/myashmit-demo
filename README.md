@@ -20,4 +20,7 @@ modified- changed
 staged- file is ready to be committed
 <br>
 unmodified- unchanged
+<br> 
+add-adds new or changed files in  yours working directory to the git staging area - git add<-file name->
 <br>
+commit-it is the record of change -- fit commit-m" some message "
